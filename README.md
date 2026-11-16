@@ -1,2 +1,2 @@
 # Personal-Introduction
-This is my Personal Portfolio website
+A responsive Personal Portfolio website built using HTML and CSS to showcase my Skils, Projects, and experience as a web developer.
